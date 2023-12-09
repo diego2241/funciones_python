@@ -12,7 +12,7 @@ import random
 
 def precio_productos(cantidad_productos):
     productos = []  # lista donde almacenaremos los precios, comienza vacia
-
+    #comentario
     # Realizar un bucle que se ejecute una vez
     # por cada producto comprado, 
     # que permita ingresar el precio por consola
